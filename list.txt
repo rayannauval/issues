@@ -2,3 +2,4 @@ list
 1. pisang
 2. jeruk
 3. mangga
+4. wallnut
